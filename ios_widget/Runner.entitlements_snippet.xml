@@ -1,0 +1,9 @@
+<!--
+  Both Runner.entitlements and DailyVocabWidget.entitlements need this key.
+  Xcode usually adds it automatically when you check the App Group box in Signing & Capabilities,
+  but if you are editing the file manually, add this inside the top-level <dict>:
+-->
+<key>com.apple.security.application-groups</key>
+<array>
+    <string>group.com.dailyvocab</string>
+</array>

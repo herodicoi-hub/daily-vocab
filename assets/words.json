@@ -1,0 +1,583 @@
+[
+  {
+    "word": "Petrichor",
+    "partOfSpeech": "noun",
+    "etymology": "Coined in 1964 from Greek pétra (stone) + ichōr (the ethereal fluid said to flow in the veins of the gods).",
+    "definition": "The pleasant, earthy smell produced when rain falls on dry soil.",
+    "example": "The first storm of summer filled the air with petrichor."
+  },
+  {
+    "word": "Sonder",
+    "partOfSpeech": "noun",
+    "etymology": "Coined in 2012 by John Koenig in The Dictionary of Obscure Sorrows; loosely modeled on German sonder- (special) and French sonder (to probe).",
+    "definition": "The realization that each random passerby is living a life as vivid and complex as your own.",
+    "example": "Stuck in traffic, she felt a sudden wave of sonder watching commuters drift past in their lit-up cars."
+  },
+  {
+    "word": "Defenestrate",
+    "partOfSpeech": "verb",
+    "etymology": "From Latin de- (out of) + fenestra (window). Coined in reference to the 1618 Defenestration of Prague, which helped trigger the Thirty Years' War.",
+    "definition": "To throw a person or thing out of a window.",
+    "example": "Frustrated with the buggy printer, he threatened to defenestrate it."
+  },
+  {
+    "word": "Sycophant",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek sykophántēs, literally 'fig-revealer' (sykon, fig + phaínein, to show); originally an informer who denounced illegal fig exports in ancient Athens.",
+    "definition": "A person who flatters or fawns over someone important to gain advantage.",
+    "example": "The CEO was surrounded by sycophants who agreed with every word."
+  },
+  {
+    "word": "Quintessential",
+    "partOfSpeech": "adjective",
+    "etymology": "From medieval Latin quinta essentia (fifth essence), the heavenly element believed to compose the stars, beyond the four earthly elements of earth, water, fire, and air.",
+    "definition": "Representing the most perfect or typical example of a quality or class.",
+    "example": "A trench coat in the rain is the quintessential image of a hardboiled detective."
+  },
+  {
+    "word": "Mellifluous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin mel (honey) + fluere (to flow). Literally, 'flowing with honey.'",
+    "definition": "Pleasingly smooth and musical to hear.",
+    "example": "The narrator's mellifluous voice made even the disclaimer feel like poetry."
+  },
+  {
+    "word": "Cacophony",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek kakós (bad) + phōnḗ (sound). Sister-word to symphony, which means 'sounding together.'",
+    "definition": "A harsh, jarring mixture of sounds.",
+    "example": "The orchestra tuning up sounded like cacophony before the conductor raised the baton."
+  },
+  {
+    "word": "Serendipity",
+    "partOfSpeech": "noun",
+    "etymology": "Coined by Horace Walpole in a 1754 letter, after the Persian fairy tale The Three Princes of Serendip, whose heroes were 'always making discoveries by accident.'",
+    "definition": "The occurrence of fortunate or beneficial events by chance.",
+    "example": "Finding her future co-founder at that random conference was pure serendipity."
+  },
+  {
+    "word": "Ubiquitous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin ubique (everywhere), itself from ubi (where).",
+    "definition": "Present, appearing, or found everywhere.",
+    "example": "Smartphones have become so ubiquitous that a quiet train car feels uncanny."
+  },
+  {
+    "word": "Ephemeral",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek ephḗmeros, literally 'lasting only a day' (epi-, on + hēmérā, day). Originally used in medicine for fevers that ran their course in a day.",
+    "definition": "Lasting for a very short time.",
+    "example": "Cherry blossoms are loved precisely because they are so ephemeral."
+  },
+  {
+    "word": "Halcyon",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek alkyṓn (kingfisher). In myth, the kingfisher was said to nest on the sea during seven calm days around the winter solstice—the 'halcyon days.'",
+    "definition": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+    "example": "He spoke wistfully of the halcyon days before email was invented."
+  },
+  {
+    "word": "Lugubrious",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin lūgubris (mournful), from lūgēre (to mourn).",
+    "definition": "Looking or sounding sad and dismal, often exaggeratedly so.",
+    "example": "He delivered the toast in such a lugubrious tone the bride started laughing."
+  },
+  {
+    "word": "Obfuscate",
+    "partOfSpeech": "verb",
+    "etymology": "From Latin obfuscāre, to darken (ob-, over + fuscus, dark).",
+    "definition": "To make obscure, unclear, or unintelligible.",
+    "example": "The contract used legal jargon to obfuscate what was a simple cancellation fee."
+  },
+  {
+    "word": "Loquacious",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin loquax, from loquī (to speak).",
+    "definition": "Tending to talk a great deal; talkative.",
+    "example": "Two cups of coffee turned our usually quiet uncle remarkably loquacious."
+  },
+  {
+    "word": "Pernicious",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin perniciōsus (destructive), from per- (thoroughly) + nex, necis (death, slaughter).",
+    "definition": "Having a harmful effect, especially in a gradual or subtle way.",
+    "example": "The most pernicious lies are the ones that flatter us."
+  },
+  {
+    "word": "Sanguine",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin sanguineus (of blood), via the medieval theory of the four humors—those with abundant blood were thought to be cheerful and confident.",
+    "definition": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+    "example": "Despite the missed quarter, the founder remained sanguine about the long-term outlook."
+  },
+  {
+    "word": "Phlegmatic",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek phlégma (inflammation, then 'phlegm'), one of the four medieval humors—an excess was thought to make a person calm and unemotional.",
+    "definition": "Having an unemotional and stolidly calm disposition.",
+    "example": "Even with the building alarm blaring, the security guard remained phlegmatic."
+  },
+  {
+    "word": "Quotidian",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin quotidiānus, from quotīdiē (every day).",
+    "definition": "Of or occurring every day; ordinary or everyday.",
+    "example": "He found unexpected beauty in quotidian things—coffee rings, bus tickets, light through blinds."
+  },
+  {
+    "word": "Susurrus",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin susurrus (a whisper, murmur)—an onomatopoeic word imitating the sound itself.",
+    "definition": "A whispering, murmuring, or rustling sound.",
+    "example": "A susurrus of wind moved through the wheat field."
+  },
+  {
+    "word": "Eloquent",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin ēloquēns, present participle of ēloquī (to speak out), from ex- (out) + loquī (to speak).",
+    "definition": "Fluent or persuasive in speaking or writing.",
+    "example": "Her eulogy was so eloquent the room forgot, for a moment, why they had come."
+  },
+  {
+    "word": "Recalcitrant",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin recalcitrāre, literally 'to kick back' (re- + calx, heel)—originally said of stubborn mules.",
+    "definition": "Having an obstinately uncooperative attitude toward authority or discipline.",
+    "example": "The recalcitrant printer refused every driver update we threw at it."
+  },
+  {
+    "word": "Insouciant",
+    "partOfSpeech": "adjective",
+    "etymology": "From French insouciant, from in- (not) + souciant (worrying), from soucier (to trouble), ultimately from Latin sollicitāre.",
+    "definition": "Showing a casual lack of concern.",
+    "example": "He gave an insouciant shrug, as if missing the flight were merely interesting."
+  },
+  {
+    "word": "Penultimate",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin paene (almost) + ultimus (last). Often misused to mean 'the very last' or 'the ultimate.'",
+    "definition": "Last but one in a series; second to last.",
+    "example": "The penultimate chapter sets up a twist no one saw coming."
+  },
+  {
+    "word": "Pulchritude",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin pulchritūdō, from pulcher (beautiful). Famously ugly word for a beautiful idea.",
+    "definition": "Physical beauty.",
+    "example": "Renaissance portraits often celebrate the pulchritude of their patrons in flattering light."
+  },
+  {
+    "word": "Saccharine",
+    "partOfSpeech": "adjective",
+    "etymology": "From Medieval Latin saccharum (sugar), ultimately from Sanskrit śarkarā (gravel, ground sugar).",
+    "definition": "Excessively sweet or sentimental.",
+    "example": "The film's saccharine ending undermined an otherwise sharp story."
+  },
+  {
+    "word": "Truculent",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin truculentus, from trux, trucis (fierce, savage).",
+    "definition": "Eager or quick to argue or fight; aggressively defiant.",
+    "example": "A truculent commenter turned every thread into a brawl."
+  },
+  {
+    "word": "Ineffable",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin ineffābilis, from in- (not) + effābilis (utterable), from effārī (to speak out).",
+    "definition": "Too great or extreme to be expressed in words.",
+    "example": "Standing at the edge of the canyon, she felt an ineffable smallness."
+  },
+  {
+    "word": "Vicissitude",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin vicissitūdō, from vicis (a turn, change). Same root as vice versa.",
+    "definition": "A change of circumstances or fortune, typically one that is unwelcome or unpleasant.",
+    "example": "She accepted the vicissitudes of startup life with surprising grace."
+  },
+  {
+    "word": "Soliloquy",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin sōliloquium, from sōlus (alone) + loquī (to speak). Coined by Augustine in the 5th century.",
+    "definition": "An act of speaking one's thoughts aloud, typically alone or regardless of any hearers.",
+    "example": "Hamlet's most famous soliloquy begins, 'To be, or not to be.'"
+  },
+  {
+    "word": "Ostracize",
+    "partOfSpeech": "verb",
+    "etymology": "From Greek ostrakízein, from óstrakon (potsherd)—in ancient Athens, citizens voted to exile a person by writing the name on a broken piece of pottery.",
+    "definition": "To exclude someone from a group or society.",
+    "example": "After the leak, the engineer felt ostracized from his old team."
+  },
+  {
+    "word": "Laconic",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek Lakōnikós (Spartan); the Spartans of Laconia were famous for their terse, blunt speech.",
+    "definition": "Using very few words; concise to the point of seeming rude or mysterious.",
+    "example": "His laconic 'fine' said more about the meeting than a long debrief could have."
+  },
+  {
+    "word": "Apocryphal",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek apókryphos (hidden away), from apokrýptein (to hide). Originally referred to texts excluded from biblical canon.",
+    "definition": "Of doubtful authenticity, although widely circulated as true.",
+    "example": "The story that Einstein failed math is apocryphal."
+  },
+  {
+    "word": "Bucolic",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek boukolikós, from boukólos (cowherd), from boũs (ox, cow).",
+    "definition": "Of or relating to the pleasant aspects of the countryside and country life.",
+    "example": "They traded their loft for a bucolic cottage with a goat that ate everything."
+  },
+  {
+    "word": "Cogent",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin cōgēns, present participle of cōgere (to compel, drive together), from co- + agere (to drive).",
+    "definition": "Clear, logical, and convincing.",
+    "example": "She made a cogent case for shutting the project down."
+  },
+  {
+    "word": "Diaphanous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek diaphanḗs (transparent), from diá (through) + phaínein (to show).",
+    "definition": "Light, delicate, and translucent.",
+    "example": "Diaphanous curtains turned the morning light gold."
+  },
+  {
+    "word": "Effervescent",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin effervēscere (to boil up), from ex- + fervēre (to be hot, boil).",
+    "definition": "Vivacious and enthusiastic; or, giving off bubbles.",
+    "example": "Her effervescent energy made the dullest meeting feel like a kickoff."
+  },
+  {
+    "word": "Furtive",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin furtīvus (stolen), from fūr (thief).",
+    "definition": "Attempting to avoid notice or attention; secretive, sly.",
+    "example": "He cast a furtive glance at the exit when his ex walked in."
+  },
+  {
+    "word": "Gregarious",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin gregārius (belonging to a flock), from grex, gregis (flock, herd).",
+    "definition": "Fond of company; sociable.",
+    "example": "Her gregarious nature meant she knew the names of every barista on the block."
+  },
+  {
+    "word": "Hoi polloi",
+    "partOfSpeech": "noun",
+    "etymology": "Greek hoi polloí, literally 'the many.' Often misused with 'the' attached, despite hoi already meaning 'the.'",
+    "definition": "The common people; the masses.",
+    "example": "He pretended to scorn the hoi polloi while secretly loving daytime television."
+  },
+  {
+    "word": "Iconoclast",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek eikonoklástēs, from eikṓn (image) + klán (to break)—originally a literal destroyer of religious images during the Byzantine controversies.",
+    "definition": "A person who attacks cherished beliefs or institutions.",
+    "example": "The iconoclast architect refused to design anything with a right angle."
+  },
+  {
+    "word": "Juxtapose",
+    "partOfSpeech": "verb",
+    "etymology": "From Latin iuxtā (next to) + French poser (to place).",
+    "definition": "To place or deal with close together for contrasting effect.",
+    "example": "The exhibit juxtaposes Renaissance portraits with selfies from Instagram."
+  },
+  {
+    "word": "Kafkaesque",
+    "partOfSpeech": "adjective",
+    "etymology": "Coined in the 20th century from the name of Czech writer Franz Kafka, whose fiction depicts surreal, oppressive bureaucracies.",
+    "definition": "Having a nightmarishly complex, bizarre, or illogical quality, especially of bureaucracy.",
+    "example": "Trying to dispute the toll charge turned into a Kafkaesque loop of forms and phone trees."
+  },
+  {
+    "word": "Limpid",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin limpidus (clear), possibly related to lympha (water).",
+    "definition": "Completely clear and transparent; (of prose) easy to understand.",
+    "example": "Her writing has a limpid quality that makes hard ideas feel obvious."
+  },
+  {
+    "word": "Magnanimous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin magnus (great) + animus (soul, spirit).",
+    "definition": "Very generous or forgiving, especially toward a rival or less powerful person.",
+    "example": "After winning the election he was magnanimous in victory, praising his opponent."
+  },
+  {
+    "word": "Nadir",
+    "partOfSpeech": "noun",
+    "etymology": "From Arabic naẓīr (opposite), in the phrase naẓīr as-samt (opposite the zenith).",
+    "definition": "The lowest point in the fortunes of a person or organization.",
+    "example": "Losing the contract was the nadir of an already brutal year."
+  },
+  {
+    "word": "Onerous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin onerōsus, from onus (burden).",
+    "definition": "Involving a great deal of effort, trouble, or difficulty.",
+    "example": "The compliance review was onerous but unavoidable."
+  },
+  {
+    "word": "Panacea",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek panákeia (all-healing), from pan (all) + akeîsthai (to heal). Panacea was the Greek goddess of universal remedy.",
+    "definition": "A solution or remedy for all difficulties or diseases.",
+    "example": "More meetings are rarely the panacea managers seem to think they are."
+  },
+  {
+    "word": "Quixotic",
+    "partOfSpeech": "adjective",
+    "etymology": "From Don Quixote, the idealistic hero of Cervantes's 1605 novel, who tilted at windmills he believed were giants.",
+    "definition": "Extremely idealistic; unrealistic and impractical.",
+    "example": "His quixotic plan to publish a print magazine in 2025 surprised even his investors."
+  },
+  {
+    "word": "Rapprochement",
+    "partOfSpeech": "noun",
+    "etymology": "French rapprochement, from rapprocher (to bring near again), from re- + approcher.",
+    "definition": "An establishment or resumption of harmonious relations.",
+    "example": "The summit marked a quiet rapprochement between the two old rivals."
+  },
+  {
+    "word": "Schadenfreude",
+    "partOfSpeech": "noun",
+    "etymology": "German Schaden (harm) + Freude (joy). Adopted into English with no equivalent native word.",
+    "definition": "Pleasure derived from another person's misfortune.",
+    "example": "She felt a small, guilty pang of schadenfreude when her rival's startup folded."
+  },
+  {
+    "word": "Tantamount",
+    "partOfSpeech": "adjective",
+    "etymology": "From Anglo-French tant amunter (to amount to as much), from Latin tantum (so much) + montāre (to climb).",
+    "definition": "Equivalent in seriousness to; virtually the same as.",
+    "example": "Refusing to answer the question was tantamount to admitting it."
+  },
+  {
+    "word": "Umbrage",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin umbra (shadow). Once meant 'shade' literally; the modern sense came from the idea of a shadow falling over one's mood.",
+    "definition": "Offense or annoyance.",
+    "example": "He took umbrage at being called the 'junior' partner."
+  },
+  {
+    "word": "Verisimilitude",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin vērisimilitūdō, from vērus (true) + similis (like).",
+    "definition": "The appearance of being true or real.",
+    "example": "The set designer's obsessive detail gave the film a chilling verisimilitude."
+  },
+  {
+    "word": "Wanderlust",
+    "partOfSpeech": "noun",
+    "etymology": "Borrowed from German wandern (to hike) + Lust (desire).",
+    "definition": "A strong desire to travel.",
+    "example": "Two weeks home and her wanderlust was already pulling her toward the airport."
+  },
+  {
+    "word": "Xenial",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek xénios (hospitable), from xénos (stranger, guest). Same root as xenophobia, but with the opposite spirit.",
+    "definition": "Hospitable, especially to visiting strangers or foreigners.",
+    "example": "Their xenial welcome turned a layover into the best part of the trip."
+  },
+  {
+    "word": "Yare",
+    "partOfSpeech": "adjective",
+    "etymology": "From Old English gearu (ready, prepared). Once common; now mostly nautical, used of a ship that's quick and easy to handle.",
+    "definition": "Quick, agile, and responsive (especially of a vessel).",
+    "example": "The little sailboat was yare in a way the bigger yacht never could be."
+  },
+  {
+    "word": "Zephyr",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek Zéphyros, the personified west wind in Greek mythology.",
+    "definition": "A soft, gentle breeze.",
+    "example": "A zephyr stirred the curtains and lifted the heat of the afternoon."
+  },
+  {
+    "word": "Akimbo",
+    "partOfSpeech": "adverb",
+    "etymology": "Possibly from Middle English in kenebowe ('at a sharp angle'), of obscure origin. Almost always paired with 'arms.'",
+    "definition": "With hands on the hips and elbows turned outward.",
+    "example": "She stood arms akimbo, blocking the doorway with her stare."
+  },
+  {
+    "word": "Brouhaha",
+    "partOfSpeech": "noun",
+    "etymology": "From French brouhaha, possibly imitative of crowd noise, possibly from Hebrew bārūkh habbā ('blessed is he who comes').",
+    "definition": "A noisy and overexcited reaction or response.",
+    "example": "The whole brouhaha turned out to be over a typo in the press release."
+  },
+  {
+    "word": "Crepuscular",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin crepusculum (twilight).",
+    "definition": "Relating to or active in twilight.",
+    "example": "Foxes are crepuscular, slipping through the suburbs just after sunset."
+  },
+  {
+    "word": "Demure",
+    "partOfSpeech": "adjective",
+    "etymology": "From Anglo-French demure, possibly from Old French demouré (settled, calm), past participle of demourer (to delay, remain).",
+    "definition": "Reserved, modest, and shy.",
+    "example": "Her demure smile in the photo hid the chaos of the day behind it."
+  },
+  {
+    "word": "Esoteric",
+    "partOfSpeech": "adjective",
+    "etymology": "From Greek esōterikós (inner), from esō (within). Originally described teachings reserved for an inner circle of disciples.",
+    "definition": "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
+    "example": "His esoteric jokes about category theory landed only with the other mathematicians."
+  },
+  {
+    "word": "Fatuous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin fatuus (foolish, silly).",
+    "definition": "Silly and pointless.",
+    "example": "The CEO's fatuous platitudes did nothing to calm the room."
+  },
+  {
+    "word": "Garrulous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin garrulus, from garrīre (to chatter).",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "example": "Their garrulous neighbor could turn a wave hello into a forty-minute story."
+  },
+  {
+    "word": "Hubris",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek hýbris (insolence, outrage). In Greek tragedy, hubris is the pride that invites the gods' punishment.",
+    "definition": "Excessive pride or self-confidence.",
+    "example": "Shipping without tests is the kind of engineering hubris that ends in pages at 3 a.m."
+  },
+  {
+    "word": "Indelible",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin indelibilis, from in- (not) + dēlēre (to destroy, blot out).",
+    "definition": "Making marks that cannot be removed; not able to be forgotten.",
+    "example": "The image of the empty stadium left an indelible impression on her."
+  },
+  {
+    "word": "Jejune",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin iēiūnus (fasting, hungry, meager). The 'naive' sense is a later English shift, possibly by association with French jeune (young).",
+    "definition": "Naive, simplistic, and superficial; lacking nourishment or interest.",
+    "example": "His jejune take on the war ignored everything that had happened in the last decade."
+  },
+  {
+    "word": "Kismet",
+    "partOfSpeech": "noun",
+    "etymology": "From Turkish kısmet, from Arabic qismah (portion, lot). Carries a sense of allotted fate.",
+    "definition": "Destiny; fate.",
+    "example": "Bumping into him twice in one week felt like kismet, not coincidence."
+  },
+  {
+    "word": "Languid",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin languidus (faint, weak), from languēre (to be weary).",
+    "definition": "Displaying a disinclination for physical exertion; relaxed and unhurried.",
+    "example": "They spent a languid Sunday on the porch, finishing a book between them."
+  },
+  {
+    "word": "Mercurial",
+    "partOfSpeech": "adjective",
+    "etymology": "From Mercury, the Roman messenger god (and the planet), associated with quickness and changeability.",
+    "definition": "Subject to sudden or unpredictable changes of mood or mind.",
+    "example": "Working for a mercurial boss meant celebrating the calm days twice as hard."
+  },
+  {
+    "word": "Nebulous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin nebulōsus, from nebula (cloud, mist).",
+    "definition": "In the form of a cloud or haze; vague or ill-defined.",
+    "example": "The plan was nebulous enough that everyone could imagine it succeeding."
+  },
+  {
+    "word": "Obstreperous",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin obstreperus, from obstrepere (to make a noise against), from ob- + strepere (to roar).",
+    "definition": "Noisy and difficult to control.",
+    "example": "An obstreperous toddler had taken over the airport gate."
+  },
+  {
+    "word": "Pellucid",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin pellucidus, from per- (through) + lūcēre (to shine).",
+    "definition": "Translucently clear; (of style) easily understood.",
+    "example": "Her explanation was pellucid; even the interns nodded along."
+  },
+  {
+    "word": "Quagmire",
+    "partOfSpeech": "noun",
+    "etymology": "Compound of obsolete English quag (marsh) + mire, both meaning boggy ground. The figurative sense came in the 18th century.",
+    "definition": "An awkward, complex, or hazardous situation.",
+    "example": "The lawsuit dragged the company into a multi-year quagmire."
+  },
+  {
+    "word": "Reticent",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin reticēns, present participle of reticēre (to be silent), from re- + tacēre (to be silent).",
+    "definition": "Not revealing one's thoughts or feelings readily.",
+    "example": "He was reticent about his old job, which only made everyone more curious."
+  },
+  {
+    "word": "Sublime",
+    "partOfSpeech": "adjective",
+    "etymology": "From Latin sublīmis (lofty, exalted), possibly from sub- (up to) + līmen (threshold)—as if approaching a high doorway.",
+    "definition": "Of such excellence or beauty as to inspire great admiration or awe.",
+    "example": "The view from the ridge at sunrise was simply sublime."
+  },
+  {
+    "word": "Trepidation",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin trepidātiō, from trepidāre (to tremble), from trepidus (alarmed).",
+    "definition": "A feeling of fear or anxiety about something that may happen.",
+    "example": "She approached the inbox with quiet trepidation after a week off."
+  },
+  {
+    "word": "Untoward",
+    "partOfSpeech": "adjective",
+    "etymology": "From un- + toward, in the older sense of 'compliant, well-disposed.' So 'not toward' meant unfavorable.",
+    "definition": "Unexpected and inappropriate or inconvenient.",
+    "example": "Nothing untoward happened on the trip, unless you count the pigeon in the hotel lobby."
+  },
+  {
+    "word": "Vexation",
+    "partOfSpeech": "noun",
+    "etymology": "From Latin vexātiō, from vexāre (to shake, harass).",
+    "definition": "The state of being annoyed, frustrated, or worried.",
+    "example": "The endless software update was a small but constant vexation."
+  },
+  {
+    "word": "Winsome",
+    "partOfSpeech": "adjective",
+    "etymology": "From Old English wynsum, from wynn (joy) + -sum (-some).",
+    "definition": "Attractive or appealing in a fresh, innocent way.",
+    "example": "His winsome grin made it impossible to stay annoyed for long."
+  },
+  {
+    "word": "Xenophile",
+    "partOfSpeech": "noun",
+    "etymology": "From Greek xénos (stranger, foreigner) + -phílos (loving). Counterpart to xenophobe.",
+    "definition": "A person who is attracted to foreign peoples, cultures, or customs.",
+    "example": "The xenophile in him kept a running list of countries he hadn't yet eaten in."
+  },
+  {
+    "word": "Yonder",
+    "partOfSpeech": "adverb",
+    "etymology": "From Old English geon (that), with adverbial suffix. Once standard; now archaic or regional.",
+    "definition": "At some distance in the direction indicated; over there.",
+    "example": "He pointed yonder, past the barn, to where the river bent."
+  },
+  {
+    "word": "Zenith",
+    "partOfSpeech": "noun",
+    "etymology": "From Arabic samt (path, way), specifically samt ar-ra's (path overhead), via medieval Latin.",
+    "definition": "The highest point reached by a celestial or other object; the time at which something is most powerful or successful.",
+    "example": "She published her best book at the zenith of her career, then quietly stopped writing."
+  }
+]

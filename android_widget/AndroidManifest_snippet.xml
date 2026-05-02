@@ -1,0 +1,15 @@
+<!--
+  Add this <receiver> inside <application> in
+  android/app/src/main/AndroidManifest.xml.
+  Replace com.example.daily_vocab with your applicationId if you change it.
+-->
+<receiver
+    android:name=".DailyVocabWidgetProvider"
+    android:exported="true">
+    <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+    </intent-filter>
+    <meta-data
+        android:name="android.appwidget.provider"
+        android:resource="@xml/daily_vocab_widget_info" />
+</receiver>
